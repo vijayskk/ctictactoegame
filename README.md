@@ -33,7 +33,7 @@ The game supports two players taking turns to input their moves, and it automati
 To compile the code, you can use a C compiler such as GCC:
 
 ```bash
-gcc tic_tac_toe.c -o tic_tac_toe
+gcc tictactoe.c -o tic_tac_toe
 ./tic_tac_toe
 ```
 ## Contributing
